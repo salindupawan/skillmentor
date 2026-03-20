@@ -11,7 +11,7 @@ The platform enables specialized learning through **one-on-one mentoring session
 | Service | Link |
 |--------|------|
 | Frontend [Repository](https://github.com/salindupawan/skill-mentor-frontend) | https://skilledmentor.vercel.app  |
-| Backend API  [Repository](https://github.com/salindupawan/skill-mentor-backend) | https://skillmentor.up.railway.app/swagger-ui/index.html |
+| Backend API  [Repository](https://github.com/salindupawan/skill-mentor-backend) | https://skilledmentorbackend.up.railway.app/swagger-ui/index.html |
 
 ---
 
